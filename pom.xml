@@ -17,6 +17,8 @@
         <module>members</module>
         <module>orders</module>
         <module>ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
     </modules>
 
 </project>
